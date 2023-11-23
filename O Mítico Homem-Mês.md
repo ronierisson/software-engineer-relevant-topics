@@ -34,7 +34,7 @@
 
 15. **Alinhamento com Objetivos de Negócio:** O Tech Lead trabalha em estreita colaboração com os gerentes e stakeholders para garantir que as soluções técnicas estejam alinhadas com os objetivos de negócio do projeto, buscando o equilíbrio entre requisitos técnicos e necessidades comerciais.
 
-### Capítulo: Não Existe Bala de Prata
+### Capítulo: Não Existe Bala de Prata:
 
 16. **Complexidade Inerente:** O capítulo enfatiza que a complexidade inerente ao desenvolvimento de software não pode ser eliminada por uma solução única ou tecnologia revolucionária.
 
@@ -46,7 +46,7 @@
 
 20. **Reconhecimento da Complexidade:** É fundamental reconhecer e aceitar a complexidade inerente ao desenvolvimento de software, buscando abordagens pragmáticas e realistas para lidar com os desafios, em vez de buscar soluções simplistas ou universais.
 
-### Exemplos de Brooks e Aplicações em Desenvolvimento de Software
+### Exemplos de Brooks e Aplicações em Desenvolvimento de Software:
 
 21. **Santíssima Trindade:** Brooks compara a trindade da doutrina cristã a um projeto de software: "O Pai" é representado pelo arquiteto ou designer que concebe a estrutura do projeto; "O Filho" é o programador que realiza o trabalho prático; e "O Espírito Santo" é o usuário ou cliente final que dá vida ao projeto. Aplicação: O arquiteto de software planeja a estrutura do sistema, os programadores desenvolvem o código e os usuários finais interagem com o produto.
 
